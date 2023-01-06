@@ -1,0 +1,15 @@
+.home-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    /* height: 50vh !important; */
+    min-height: 570px;
+    background-image: url(../../assets//home/bg.jpg);
+ }
+.hello{
+    color: aqua;
+    background-color: black;
+}
+@media screen and (max-width: 513px){
+ 
+}

@@ -1,0 +1,108 @@
+.head{
+    text-align: center;
+    font-family: cursive;
+    display: block;
+    
+}
+.main{
+  display: flex;
+  justify-content: space-around;
+}
+.contact-profile .head{
+    text-align: center;
+    font-family: cursive;
+    display: block;
+}
+.contact-profile .info{
+    display: flex;
+}
+.contact-profile .info i{
+    font-size: 40px;
+    color: rgb(59, 36, 113);
+    margin: 15px;
+}
+.contact-profile .info h1{
+    font-size: 18px;
+    margin-top: 23px;
+}
+
+ .main .form{
+    width: 300px;
+    padding-left: 1%;
+   
+}
+.input form{
+    display: flex;
+    flex-direction: column;
+}
+.input form label{
+    text-align: center;
+    font-family: cursive;
+    font-size: 1.5rem;
+}
+.input form input{
+    border: 3px solid rgb(59, 36, 113);
+    height: 30px;
+    border-radius: 10px;
+    margin: 10px;
+    font-size: 15px;
+}
+.input form textarea{
+    border: 2px solid rgb(59, 36, 113);
+    height: 30px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.input form button{
+    color: aliceblue;
+    font-size: 12px;
+    background-color: #ff5823;
+    width: 120px;
+    height: 40px;
+    margin-left: 30%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 50px;
+    font-family: cursive;
+    font-size: 12px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.input form button:hover{
+    background-color: white;
+    color:  black;
+    border: 2px solid #ff5823;
+    font-family: cursive;
+    font-size: 12px;
+}
+@media screen and (max-width: 650px){
+    .main{
+        display: flex;
+        flex-direction: column;
+
+    }
+    .form{
+        margin-left: 10%;
+    }
+    .skill-main-container {
+        
+        height: 13rem;
+    }
+    .skill-main-container .skills .skill-deatails img {
+        height: 120px;
+        width: 75px;
+        border-radius: 5px;
+        transition: .1s ease-in;
+    }
+}
+@media screen and (max-width: 450px){
+    .skill-main-container{
+        max-height: 12rem;
+    }
+    .skill-main-container .skills .skill-deatails img {
+        max-height: 120px;
+        max-width: 80px;
+    }    
+}
+
+

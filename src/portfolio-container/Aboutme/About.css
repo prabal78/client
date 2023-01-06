@@ -1,0 +1,20 @@
+.main-info{
+    background-image: url(../../assets//home/bg.jpg);
+}
+.main-info .name-info h2{
+    color: var(--dark-orange);
+    text-align: center;
+    font-family: cursive;
+    font-size: 2.5rem;
+}
+.main-info .name-info h3{
+    color: var(--dark-orange);
+    text-align: center;
+    font-family: cursive;
+    font-size: 2.5rem;
+}
+.main-info .name-info p{
+    color: aliceblue;
+    font-family: cursive;
+    font-size: 1.5rem;
+}
