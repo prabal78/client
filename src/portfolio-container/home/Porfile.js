@@ -24,7 +24,7 @@ export default function Porfile() {
           <div className="profile-detail-name">
             <span className="primary-text">
                 {""}
-                Hello I'm <span className="highlighted-text">Prabal</span>
+                Hello I'm <span className="highlighted-text">Prabal kapoor</span>
             </span>
          </div>
          <div className="profile-details-role">
