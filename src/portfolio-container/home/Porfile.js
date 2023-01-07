@@ -33,7 +33,7 @@ export default function Porfile() {
                 <h1>
                 Ethusiastic Dev
                     {""}
-                   <Typical
+                   {/* <Typical
                    loop={Infinity}
                    steps={[
                     "Ethusiastic Dev",
@@ -43,7 +43,7 @@ export default function Porfile() {
                     "JavaScript Dev",
                     1000,
                    ]}
-                   />
+                   /> */}
                 </h1>
                 <span className="profile-role-tagline">
                    knack of building a  application with front end  Operation

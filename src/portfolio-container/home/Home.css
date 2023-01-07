@@ -3,7 +3,7 @@
     flex-direction: column;
     justify-content: space-between;
     /* height: 50vh !important; */
-    min-height: 570px;
+    min-height: 400px;
     background-image: url(../../assets//home/bg.jpg);
  }
 .hello{
