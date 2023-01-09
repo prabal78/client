@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/client/static/css/main.4319d468.css",
+    "main.js": "/client/static/js/main.9ca724fc.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/client/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/p.jpg": "/client/static/media/p.6ff9ea21d612e08c165f.jpg",
+    "static/media/Poppins-Thin.ttf": "/client/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/client/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/client/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/client/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/client/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/client/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/client/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/bg.jpg": "/client/static/media/bg.d580cd375921d13ae60d.jpg",
+    "static/media/WhatsApp Image 2022-12-21 at 11.33.53 PM.jpeg": "/client/static/media/WhatsApp Image 2022-12-21 at 11.33.53 PM.1c4ba694b5af565929ae.jpeg",
+    "static/media/WhatsApp Image 2022-12-21 at 11.33.25 PM.jpeg": "/client/static/media/WhatsApp Image 2022-12-21 at 11.33.25 PM.c9a0fa602625a3889177.jpeg",
+    "static/media/WhatsApp Image 2022-12-21 at 11.32.56 PM.jpeg": "/client/static/media/WhatsApp Image 2022-12-21 at 11.32.56 PM.63ca53ee4f3b1c7658e9.jpeg",
+    "static/media/WhatsApp Image 2022-12-21 at 11.34.16 PM.jpeg": "/client/static/media/WhatsApp Image 2022-12-21 at 11.34.16 PM.702c0b306e672703604a.jpeg",
+    "index.html": "/client/index.html",
+    "main.4319d468.css.map": "/client/static/css/main.4319d468.css.map",
+    "main.9ca724fc.js.map": "/client/static/js/main.9ca724fc.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/client/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4319d468.css",
+    "static/js/main.9ca724fc.js"
+  ]
+}
