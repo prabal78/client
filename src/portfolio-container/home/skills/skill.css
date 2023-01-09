@@ -12,8 +12,9 @@
 .skill-main-container .skills{
     display: flex;
     flex-direction: row;
-    margin: 5px;
+    /* margin: 5px; */
     justify-content: space-around;
+    padding-right: 20px;
 }
 .skill-main-container .skills .skill-deatails{
     margin: 5px; 
